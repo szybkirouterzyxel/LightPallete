@@ -6,3 +6,5 @@ LightPallete is a pallete that has Warm and cool colors  it entirely  consists o
 ## Warm Color
 
 --Banana Like (#e9e8a9)
+![Color Image](banana.png)
+
