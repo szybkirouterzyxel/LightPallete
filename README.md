@@ -4,8 +4,8 @@ LightPallete is a pallete that has Warm and cool colors  it entirely  consists o
 # How to install
 
 
-firstly git clone this repository
-then cd LightPallete
+firstly `git clone` this repository
+then `cd LightPallete`
 and there it is
 
 
