@@ -9,7 +9,9 @@ then `cd LightPallete`
 and there it is
 
 
-# LightPallete
+# Wallpapers:
+
+![Color Image](wallpaper1.png)
 
 ## Warm Color
 
