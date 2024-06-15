@@ -21,3 +21,6 @@ and there it is
 --Banana Like (#e9e8a9)
 ![Color Image](banana.png)
 
+--Warm Purple
+![Color Image](Warm Purple.png) 
+
