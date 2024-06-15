@@ -22,5 +22,5 @@ and there it is
 ![Color Image](banana.png)
 
 --Warm Purple
-![Color Image](Warm Purple.png) 
+![Color Image](Cyan.png) 
 
