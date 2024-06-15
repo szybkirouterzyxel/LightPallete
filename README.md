@@ -11,7 +11,10 @@ and there it is
 
 # Wallpapers:
 
+--1920x1080 wallpaper
 ![Color Image](wallpaper1.png)
+
+
 
 ## Warm Color
 
